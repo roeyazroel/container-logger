@@ -1,0 +1,245 @@
+2017-08-07T06:58:15.971Z - fc7eb0f8e2f966159318755e1701f22f99f5026822f5d61a1481a337becddf62: 
+2017-08-07T06:58:15.972Z - fc7eb0f8e2f966159318755e1701f22f99f5026822f5d61a1481a337becddf62: Hello from Docker!
+2017-08-07T06:58:15.972Z - fc7eb0f8e2f966159318755e1701f22f99f5026822f5d61a1481a337becddf62: This message shows that your installation appears to be working correctly.
+2017-08-07T06:58:15.972Z - fc7eb0f8e2f966159318755e1701f22f99f5026822f5d61a1481a337becddf62: 
+2017-08-07T06:58:15.973Z - fc7eb0f8e2f966159318755e1701f22f99f5026822f5d61a1481a337becddf62: To generate this message, Docker took the following steps:
+2017-08-07T06:58:15.973Z - fc7eb0f8e2f966159318755e1701f22f99f5026822f5d61a1481a337becddf62:  1. The Docker client contacted the Docker daemon.
+2017-08-07T06:58:15.973Z - fc7eb0f8e2f966159318755e1701f22f99f5026822f5d61a1481a337becddf62:  2. The Docker daemon pulled the "hello-world" image from the Docker Hub.
+2017-08-07T06:58:15.973Z - fc7eb0f8e2f966159318755e1701f22f99f5026822f5d61a1481a337becddf62:  3. The Docker daemon created a new container from that image which runs the
+2017-08-07T06:58:15.974Z - fc7eb0f8e2f966159318755e1701f22f99f5026822f5d61a1481a337becddf62:     executable that produces the output you are currently reading.
+2017-08-07T06:58:15.974Z - fc7eb0f8e2f966159318755e1701f22f99f5026822f5d61a1481a337becddf62:  4. The Docker daemon streamed that output to the Docker client, which sent it
+2017-08-07T06:58:15.975Z - fc7eb0f8e2f966159318755e1701f22f99f5026822f5d61a1481a337becddf62:     to your terminal.
+2017-08-07T06:58:15.976Z - fc7eb0f8e2f966159318755e1701f22f99f5026822f5d61a1481a337becddf62: 
+2017-08-07T06:58:15.976Z - fc7eb0f8e2f966159318755e1701f22f99f5026822f5d61a1481a337becddf62: To try something more ambitious, you can run an Ubuntu container with:
+2017-08-07T06:58:15.976Z - fc7eb0f8e2f966159318755e1701f22f99f5026822f5d61a1481a337becddf62:  $ docker run -it ubuntu bash
+2017-08-07T06:58:15.977Z - fc7eb0f8e2f966159318755e1701f22f99f5026822f5d61a1481a337becddf62: 
+2017-08-07T06:58:15.977Z - fc7eb0f8e2f966159318755e1701f22f99f5026822f5d61a1481a337becddf62: Share images, automate workflows, and more with a free Docker ID:
+2017-08-07T06:58:15.978Z - fc7eb0f8e2f966159318755e1701f22f99f5026822f5d61a1481a337becddf62:  https://cloud.docker.com/
+2017-08-07T06:58:15.979Z - fc7eb0f8e2f966159318755e1701f22f99f5026822f5d61a1481a337becddf62: 
+2017-08-07T06:58:15.980Z - fc7eb0f8e2f966159318755e1701f22f99f5026822f5d61a1481a337becddf62: For more examples and ideas, visit:
+2017-08-07T06:58:15.980Z - fc7eb0f8e2f966159318755e1701f22f99f5026822f5d61a1481a337becddf62:  https://docs.docker.com/engine/userguide/
+2017-08-07T06:58:15.980Z - fc7eb0f8e2f966159318755e1701f22f99f5026822f5d61a1481a337becddf62: 
+2017-08-07T06:59:23.606Z - 6748f02e3805085b19507aab5474e27ebb08fc3658ffa529e3bbe263f2435975:  2. The Docker daemon pulled the "hello-world" image from the Docker Hub.
+2017-08-07T06:59:23.606Z - 6748f02e3805085b19507aab5474e27ebb08fc3658ffa529e3bbe263f2435975:  3. The Docker daemon created a new container from that image which runs the
+2017-08-07T06:59:23.607Z - 6748f02e3805085b19507aab5474e27ebb08fc3658ffa529e3bbe263f2435975:     executable that produces the output you are currently reading.
+2017-08-07T06:59:23.608Z - 6748f02e3805085b19507aab5474e27ebb08fc3658ffa529e3bbe263f2435975:  4. The Docker daemon streamed that output to the Docker client, which sent it
+2017-08-07T06:59:23.608Z - 6748f02e3805085b19507aab5474e27ebb08fc3658ffa529e3bbe263f2435975:     to your terminal.
+2017-08-07T06:59:23.609Z - 6748f02e3805085b19507aab5474e27ebb08fc3658ffa529e3bbe263f2435975: 
+2017-08-07T06:59:23.609Z - 6748f02e3805085b19507aab5474e27ebb08fc3658ffa529e3bbe263f2435975: To try something more ambitious, you can run an Ubuntu container with:
+2017-08-07T06:59:23.609Z - 6748f02e3805085b19507aab5474e27ebb08fc3658ffa529e3bbe263f2435975:  $ docker run -it ubuntu bash
+2017-08-07T06:59:23.609Z - 6748f02e3805085b19507aab5474e27ebb08fc3658ffa529e3bbe263f2435975: 
+2017-08-07T06:59:23.609Z - 6748f02e3805085b19507aab5474e27ebb08fc3658ffa529e3bbe263f2435975: Share images, automate workflows, and more with a free Docker ID:
+2017-08-07T06:59:23.610Z - 6748f02e3805085b19507aab5474e27ebb08fc3658ffa529e3bbe263f2435975:  https://cloud.docker.com/
+2017-08-07T06:59:23.610Z - 6748f02e3805085b19507aab5474e27ebb08fc3658ffa529e3bbe263f2435975: 
+2017-08-07T06:59:23.611Z - 6748f02e3805085b19507aab5474e27ebb08fc3658ffa529e3bbe263f2435975: For more examples and ideas, visit:
+2017-08-07T06:59:23.611Z - 6748f02e3805085b19507aab5474e27ebb08fc3658ffa529e3bbe263f2435975:  https://docs.docker.com/engine/userguide/
+2017-08-07T06:59:23.611Z - 6748f02e3805085b19507aab5474e27ebb08fc3658ffa529e3bbe263f2435975: 
+2017-08-07T06:59:23.649Z - 6748f02e3805085b19507aab5474e27ebb08fc3658ffa529e3bbe263f2435975: !stop!2017-08-07T06:59:46.497Z - 95cf45e50daa441e85ab499f193610713b9877a4e9546a70acb63f89c434bd7e: 
+2017-08-07T06:59:46.497Z - 95cf45e50daa441e85ab499f193610713b9877a4e9546a70acb63f89c434bd7e: Hello from Docker!
+2017-08-07T06:59:46.497Z - 95cf45e50daa441e85ab499f193610713b9877a4e9546a70acb63f89c434bd7e: This message shows that your installation appears to be working correctly.
+2017-08-07T06:59:46.497Z - 95cf45e50daa441e85ab499f193610713b9877a4e9546a70acb63f89c434bd7e: 
+2017-08-07T06:59:46.498Z - 95cf45e50daa441e85ab499f193610713b9877a4e9546a70acb63f89c434bd7e: To generate this message, Docker took the following steps:
+2017-08-07T06:59:46.499Z - 95cf45e50daa441e85ab499f193610713b9877a4e9546a70acb63f89c434bd7e:  1. The Docker client contacted the Docker daemon.
+2017-08-07T06:59:46.499Z - 95cf45e50daa441e85ab499f193610713b9877a4e9546a70acb63f89c434bd7e:  2. The Docker daemon pulled the "hello-world" image from the Docker Hub.
+2017-08-07T06:59:46.499Z - 95cf45e50daa441e85ab499f193610713b9877a4e9546a70acb63f89c434bd7e:  3. The Docker daemon created a new container from that image which runs the
+2017-08-07T06:59:46.500Z - 95cf45e50daa441e85ab499f193610713b9877a4e9546a70acb63f89c434bd7e:     executable that produces the output you are currently reading.
+2017-08-07T06:59:46.500Z - 95cf45e50daa441e85ab499f193610713b9877a4e9546a70acb63f89c434bd7e:  4. The Docker daemon streamed that output to the Docker client, which sent it
+2017-08-07T06:59:46.501Z - 95cf45e50daa441e85ab499f193610713b9877a4e9546a70acb63f89c434bd7e:     to your terminal.
+2017-08-07T06:59:46.501Z - 95cf45e50daa441e85ab499f193610713b9877a4e9546a70acb63f89c434bd7e: 
+2017-08-07T06:59:46.501Z - 95cf45e50daa441e85ab499f193610713b9877a4e9546a70acb63f89c434bd7e: To try something more ambitious, you can run an Ubuntu container with:
+2017-08-07T06:59:46.501Z - 95cf45e50daa441e85ab499f193610713b9877a4e9546a70acb63f89c434bd7e:  $ docker run -it ubuntu bash
+2017-08-07T06:59:46.501Z - 95cf45e50daa441e85ab499f193610713b9877a4e9546a70acb63f89c434bd7e: 
+2017-08-07T06:59:46.501Z - 95cf45e50daa441e85ab499f193610713b9877a4e9546a70acb63f89c434bd7e: Share images, automate workflows, and more with a free Docker ID:
+2017-08-07T06:59:46.501Z - 95cf45e50daa441e85ab499f193610713b9877a4e9546a70acb63f89c434bd7e:  https://cloud.docker.com/
+2017-08-07T06:59:46.501Z - 95cf45e50daa441e85ab499f193610713b9877a4e9546a70acb63f89c434bd7e: 
+2017-08-07T06:59:46.501Z - 95cf45e50daa441e85ab499f193610713b9877a4e9546a70acb63f89c434bd7e: For more examples and ideas, visit:
+2017-08-07T06:59:46.502Z - 95cf45e50daa441e85ab499f193610713b9877a4e9546a70acb63f89c434bd7e:  https://docs.docker.com/engine/userguide/
+2017-08-07T06:59:46.502Z - 95cf45e50daa441e85ab499f193610713b9877a4e9546a70acb63f89c434bd7e: 
+2017-08-07T06:59:46.585Z - 95cf45e50daa441e85ab499f193610713b9877a4e9546a70acb63f89c434bd7e: !stop!2017-08-07T07:37:57.760Z - 583896b1ee3dc6716cc5a8d713df112551d23ad0aba51f6925d7b5396718c851: 
+2017-08-07T07:37:57.765Z - 583896b1ee3dc6716cc5a8d713df112551d23ad0aba51f6925d7b5396718c851: Hello from Docker!
+2017-08-07T07:37:57.766Z - 583896b1ee3dc6716cc5a8d713df112551d23ad0aba51f6925d7b5396718c851: This message shows that your installation appears to be working correctly.
+2017-08-07T07:37:57.766Z - 583896b1ee3dc6716cc5a8d713df112551d23ad0aba51f6925d7b5396718c851: 
+2017-08-07T07:37:57.766Z - 583896b1ee3dc6716cc5a8d713df112551d23ad0aba51f6925d7b5396718c851: To generate this message, Docker took the following steps:
+2017-08-07T07:37:57.766Z - 583896b1ee3dc6716cc5a8d713df112551d23ad0aba51f6925d7b5396718c851:  1. The Docker client contacted the Docker daemon.
+2017-08-07T07:37:57.767Z - 583896b1ee3dc6716cc5a8d713df112551d23ad0aba51f6925d7b5396718c851:  2. The Docker daemon pulled the "hello-world" image from the Docker Hub.
+2017-08-07T07:37:57.767Z - 583896b1ee3dc6716cc5a8d713df112551d23ad0aba51f6925d7b5396718c851:  3. The Docker daemon created a new container from that image which runs the
+2017-08-07T07:37:57.767Z - 583896b1ee3dc6716cc5a8d713df112551d23ad0aba51f6925d7b5396718c851:     executable that produces the output you are currently reading.
+2017-08-07T07:37:57.767Z - 583896b1ee3dc6716cc5a8d713df112551d23ad0aba51f6925d7b5396718c851:  4. The Docker daemon streamed that output to the Docker client, which sent it
+2017-08-07T07:37:57.768Z - 583896b1ee3dc6716cc5a8d713df112551d23ad0aba51f6925d7b5396718c851:     to your terminal.
+2017-08-07T07:37:57.768Z - 583896b1ee3dc6716cc5a8d713df112551d23ad0aba51f6925d7b5396718c851: 
+2017-08-07T07:37:57.768Z - 583896b1ee3dc6716cc5a8d713df112551d23ad0aba51f6925d7b5396718c851: To try something more ambitious, you can run an Ubuntu container with:
+2017-08-07T07:37:57.769Z - 583896b1ee3dc6716cc5a8d713df112551d23ad0aba51f6925d7b5396718c851:  $ docker run -it ubuntu bash
+2017-08-07T07:37:57.769Z - 583896b1ee3dc6716cc5a8d713df112551d23ad0aba51f6925d7b5396718c851: 
+2017-08-07T07:37:57.769Z - 583896b1ee3dc6716cc5a8d713df112551d23ad0aba51f6925d7b5396718c851: Share images, automate workflows, and more with a free Docker ID:
+2017-08-07T07:37:57.770Z - 583896b1ee3dc6716cc5a8d713df112551d23ad0aba51f6925d7b5396718c851:  https://cloud.docker.com/
+2017-08-07T07:37:57.770Z - 583896b1ee3dc6716cc5a8d713df112551d23ad0aba51f6925d7b5396718c851: 
+2017-08-07T07:37:57.770Z - 583896b1ee3dc6716cc5a8d713df112551d23ad0aba51f6925d7b5396718c851: For more examples and ideas, visit:
+2017-08-07T07:37:57.770Z - 583896b1ee3dc6716cc5a8d713df112551d23ad0aba51f6925d7b5396718c851:  https://docs.docker.com/engine/userguide/
+2017-08-07T07:37:57.770Z - 583896b1ee3dc6716cc5a8d713df112551d23ad0aba51f6925d7b5396718c851: 
+2017-08-07T07:37:57.800Z - 583896b1ee3dc6716cc5a8d713df112551d23ad0aba51f6925d7b5396718c851: !stop!
+2017-08-07T07:37:59.881Z - a9e8ac53414ac47178c75deae79d657d9630ae6c68794e0cb6fde1a24331983c: !stop!
+2017-08-07T07:38:25.250Z - 044977eb678f3c5449e46b3b8618f25d35bb02cc91f4151f476a096020767431: !stop!
+2017-08-07T07:38:27.042Z - 5a834e12c217483c42a9e0c6ac44093c6d7e203d206a536389b3637ad212a168: !stop!
+2017-08-07T07:38:52.787Z - 3bd0d99314be085d97d2dadae813da566590799544e3245c515bd3a3a2a20328: 
+2017-08-07T07:38:52.788Z - 3bd0d99314be085d97d2dadae813da566590799544e3245c515bd3a3a2a20328: Hello from Docker!
+2017-08-07T07:38:52.789Z - 3bd0d99314be085d97d2dadae813da566590799544e3245c515bd3a3a2a20328: This message shows that your installation appears to be working correctly.
+2017-08-07T07:38:52.790Z - 3bd0d99314be085d97d2dadae813da566590799544e3245c515bd3a3a2a20328: 
+2017-08-07T07:38:52.790Z - 3bd0d99314be085d97d2dadae813da566590799544e3245c515bd3a3a2a20328: To generate this message, Docker took the following steps:
+2017-08-07T07:38:52.790Z - 3bd0d99314be085d97d2dadae813da566590799544e3245c515bd3a3a2a20328:  1. The Docker client contacted the Docker daemon.
+2017-08-07T07:38:52.791Z - 3bd0d99314be085d97d2dadae813da566590799544e3245c515bd3a3a2a20328:  2. The Docker daemon pulled the "hello-world" image from the Docker Hub.
+2017-08-07T07:38:52.791Z - 3bd0d99314be085d97d2dadae813da566590799544e3245c515bd3a3a2a20328:  3. The Docker daemon created a new container from that image which runs the
+2017-08-07T07:38:52.791Z - 3bd0d99314be085d97d2dadae813da566590799544e3245c515bd3a3a2a20328:     executable that produces the output you are currently reading.
+2017-08-07T07:38:52.791Z - 3bd0d99314be085d97d2dadae813da566590799544e3245c515bd3a3a2a20328:  4. The Docker daemon streamed that output to the Docker client, which sent it
+2017-08-07T07:38:52.792Z - 3bd0d99314be085d97d2dadae813da566590799544e3245c515bd3a3a2a20328:     to your terminal.
+2017-08-07T07:38:52.792Z - 3bd0d99314be085d97d2dadae813da566590799544e3245c515bd3a3a2a20328: 
+2017-08-07T07:38:52.793Z - 3bd0d99314be085d97d2dadae813da566590799544e3245c515bd3a3a2a20328: To try something more ambitious, you can run an Ubuntu container with:
+2017-08-07T07:38:52.793Z - 3bd0d99314be085d97d2dadae813da566590799544e3245c515bd3a3a2a20328:  $ docker run -it ubuntu bash
+2017-08-07T07:38:52.793Z - 3bd0d99314be085d97d2dadae813da566590799544e3245c515bd3a3a2a20328: 
+2017-08-07T07:38:52.793Z - 3bd0d99314be085d97d2dadae813da566590799544e3245c515bd3a3a2a20328: Share images, automate workflows, and more with a free Docker ID:
+2017-08-07T07:38:52.794Z - 3bd0d99314be085d97d2dadae813da566590799544e3245c515bd3a3a2a20328:  https://cloud.docker.com/
+2017-08-07T07:38:52.794Z - 3bd0d99314be085d97d2dadae813da566590799544e3245c515bd3a3a2a20328: 
+2017-08-07T07:38:52.794Z - 3bd0d99314be085d97d2dadae813da566590799544e3245c515bd3a3a2a20328: For more examples and ideas, visit:
+2017-08-07T07:38:52.794Z - 3bd0d99314be085d97d2dadae813da566590799544e3245c515bd3a3a2a20328:  https://docs.docker.com/engine/userguide/
+2017-08-07T07:38:52.794Z - 3bd0d99314be085d97d2dadae813da566590799544e3245c515bd3a3a2a20328: 
+2017-08-07T07:38:52.823Z - 3bd0d99314be085d97d2dadae813da566590799544e3245c515bd3a3a2a20328: !stop!
+2017-08-07T07:39:00.337Z - ed34687411f6633aa909a682252ece1f47502edcf2f15d25394a432e6cdf1518: 
+2017-08-07T07:39:00.337Z - ed34687411f6633aa909a682252ece1f47502edcf2f15d25394a432e6cdf1518: Hello from Docker!
+2017-08-07T07:39:00.337Z - ed34687411f6633aa909a682252ece1f47502edcf2f15d25394a432e6cdf1518: This message shows that your installation appears to be working correctly.
+2017-08-07T07:39:00.337Z - ed34687411f6633aa909a682252ece1f47502edcf2f15d25394a432e6cdf1518: 
+2017-08-07T07:39:00.337Z - ed34687411f6633aa909a682252ece1f47502edcf2f15d25394a432e6cdf1518: To generate this message, Docker took the following steps:
+2017-08-07T07:39:00.338Z - ed34687411f6633aa909a682252ece1f47502edcf2f15d25394a432e6cdf1518:  1. The Docker client contacted the Docker daemon.
+2017-08-07T07:39:00.338Z - ed34687411f6633aa909a682252ece1f47502edcf2f15d25394a432e6cdf1518:  2. The Docker daemon pulled the "hello-world" image from the Docker Hub.
+2017-08-07T07:39:00.338Z - ed34687411f6633aa909a682252ece1f47502edcf2f15d25394a432e6cdf1518:  3. The Docker daemon created a new container from that image which runs the
+2017-08-07T07:39:00.338Z - ed34687411f6633aa909a682252ece1f47502edcf2f15d25394a432e6cdf1518:     executable that produces the output you are currently reading.
+2017-08-07T07:39:00.338Z - ed34687411f6633aa909a682252ece1f47502edcf2f15d25394a432e6cdf1518:  4. The Docker daemon streamed that output to the Docker client, which sent it
+2017-08-07T07:39:00.338Z - ed34687411f6633aa909a682252ece1f47502edcf2f15d25394a432e6cdf1518:     to your terminal.
+2017-08-07T07:39:00.338Z - ed34687411f6633aa909a682252ece1f47502edcf2f15d25394a432e6cdf1518: 
+2017-08-07T07:39:00.338Z - ed34687411f6633aa909a682252ece1f47502edcf2f15d25394a432e6cdf1518: To try something more ambitious, you can run an Ubuntu container with:
+2017-08-07T07:39:00.338Z - ed34687411f6633aa909a682252ece1f47502edcf2f15d25394a432e6cdf1518:  $ docker run -it ubuntu bash
+2017-08-07T07:39:00.339Z - ed34687411f6633aa909a682252ece1f47502edcf2f15d25394a432e6cdf1518: 
+2017-08-07T07:39:00.339Z - ed34687411f6633aa909a682252ece1f47502edcf2f15d25394a432e6cdf1518: Share images, automate workflows, and more with a free Docker ID:
+2017-08-07T07:39:00.339Z - ed34687411f6633aa909a682252ece1f47502edcf2f15d25394a432e6cdf1518:  https://cloud.docker.com/
+2017-08-07T07:39:00.339Z - ed34687411f6633aa909a682252ece1f47502edcf2f15d25394a432e6cdf1518: 
+2017-08-07T07:39:00.339Z - ed34687411f6633aa909a682252ece1f47502edcf2f15d25394a432e6cdf1518: For more examples and ideas, visit:
+2017-08-07T07:39:00.340Z - ed34687411f6633aa909a682252ece1f47502edcf2f15d25394a432e6cdf1518:  https://docs.docker.com/engine/userguide/
+2017-08-07T07:39:00.340Z - ed34687411f6633aa909a682252ece1f47502edcf2f15d25394a432e6cdf1518: 
+2017-08-07T07:39:00.385Z - ed34687411f6633aa909a682252ece1f47502edcf2f15d25394a432e6cdf1518: !stop!
+2017-08-07T07:40:09.362Z - 507fe3b0eb529c7d81e7bf5f88eb066cadcb2ea3e6fa3c2e560649a24659c755: !start!
+2017-08-07T07:40:09.372Z - 507fe3b0eb529c7d81e7bf5f88eb066cadcb2ea3e6fa3c2e560649a24659c755: 
+2017-08-07T07:40:09.373Z - 507fe3b0eb529c7d81e7bf5f88eb066cadcb2ea3e6fa3c2e560649a24659c755: Hello from Docker!
+2017-08-07T07:40:09.374Z - 507fe3b0eb529c7d81e7bf5f88eb066cadcb2ea3e6fa3c2e560649a24659c755: This message shows that your installation appears to be working correctly.
+2017-08-07T07:40:09.374Z - 507fe3b0eb529c7d81e7bf5f88eb066cadcb2ea3e6fa3c2e560649a24659c755: 
+2017-08-07T07:40:09.374Z - 507fe3b0eb529c7d81e7bf5f88eb066cadcb2ea3e6fa3c2e560649a24659c755: To generate this message, Docker took the following steps:
+2017-08-07T07:40:09.375Z - 507fe3b0eb529c7d81e7bf5f88eb066cadcb2ea3e6fa3c2e560649a24659c755:  1. The Docker client contacted the Docker daemon.
+2017-08-07T07:40:09.375Z - 507fe3b0eb529c7d81e7bf5f88eb066cadcb2ea3e6fa3c2e560649a24659c755:  2. The Docker daemon pulled the "hello-world" image from the Docker Hub.
+2017-08-07T07:40:09.375Z - 507fe3b0eb529c7d81e7bf5f88eb066cadcb2ea3e6fa3c2e560649a24659c755:  3. The Docker daemon created a new container from that image which runs the
+2017-08-07T07:40:09.375Z - 507fe3b0eb529c7d81e7bf5f88eb066cadcb2ea3e6fa3c2e560649a24659c755:     executable that produces the output you are currently reading.
+2017-08-07T07:40:09.375Z - 507fe3b0eb529c7d81e7bf5f88eb066cadcb2ea3e6fa3c2e560649a24659c755:  4. The Docker daemon streamed that output to the Docker client, which sent it
+2017-08-07T07:40:09.375Z - 507fe3b0eb529c7d81e7bf5f88eb066cadcb2ea3e6fa3c2e560649a24659c755:     to your terminal.
+2017-08-07T07:40:09.375Z - 507fe3b0eb529c7d81e7bf5f88eb066cadcb2ea3e6fa3c2e560649a24659c755: 
+2017-08-07T07:40:09.376Z - 507fe3b0eb529c7d81e7bf5f88eb066cadcb2ea3e6fa3c2e560649a24659c755: To try something more ambitious, you can run an Ubuntu container with:
+2017-08-07T07:40:09.376Z - 507fe3b0eb529c7d81e7bf5f88eb066cadcb2ea3e6fa3c2e560649a24659c755:  $ docker run -it ubuntu bash
+2017-08-07T07:40:09.376Z - 507fe3b0eb529c7d81e7bf5f88eb066cadcb2ea3e6fa3c2e560649a24659c755: 
+2017-08-07T07:40:09.376Z - 507fe3b0eb529c7d81e7bf5f88eb066cadcb2ea3e6fa3c2e560649a24659c755: Share images, automate workflows, and more with a free Docker ID:
+2017-08-07T07:40:09.377Z - 507fe3b0eb529c7d81e7bf5f88eb066cadcb2ea3e6fa3c2e560649a24659c755:  https://cloud.docker.com/
+2017-08-07T07:40:09.377Z - 507fe3b0eb529c7d81e7bf5f88eb066cadcb2ea3e6fa3c2e560649a24659c755: 
+2017-08-07T07:40:09.378Z - 507fe3b0eb529c7d81e7bf5f88eb066cadcb2ea3e6fa3c2e560649a24659c755: For more examples and ideas, visit:
+2017-08-07T07:40:09.379Z - 507fe3b0eb529c7d81e7bf5f88eb066cadcb2ea3e6fa3c2e560649a24659c755:  https://docs.docker.com/engine/userguide/
+2017-08-07T07:40:09.380Z - 507fe3b0eb529c7d81e7bf5f88eb066cadcb2ea3e6fa3c2e560649a24659c755: 
+2017-08-07T07:40:09.427Z - 507fe3b0eb529c7d81e7bf5f88eb066cadcb2ea3e6fa3c2e560649a24659c755: !stop!
+2017-08-07T07:40:17.055Z - dfa22dae4565b73fcc6d2b9004e46850312bc6c1b44aed77bc653aec2e2c510c: !start!
+2017-08-07T07:40:17.104Z - dfa22dae4565b73fcc6d2b9004e46850312bc6c1b44aed77bc653aec2e2c510c: !stop!
+2017-08-07T07:40:24.614Z - 97e97bd2ea2ca72d76bdc0190a016f322103c75a9b4d6f2add111a5d6bd33038: !start!
+2017-08-07T07:40:24.624Z - 97e97bd2ea2ca72d76bdc0190a016f322103c75a9b4d6f2add111a5d6bd33038: 
+2017-08-07T07:40:24.624Z - 97e97bd2ea2ca72d76bdc0190a016f322103c75a9b4d6f2add111a5d6bd33038: Hello from Docker!
+2017-08-07T07:40:24.624Z - 97e97bd2ea2ca72d76bdc0190a016f322103c75a9b4d6f2add111a5d6bd33038: This message shows that your installation appears to be working correctly.
+2017-08-07T07:40:24.624Z - 97e97bd2ea2ca72d76bdc0190a016f322103c75a9b4d6f2add111a5d6bd33038: 
+2017-08-07T07:40:24.624Z - 97e97bd2ea2ca72d76bdc0190a016f322103c75a9b4d6f2add111a5d6bd33038: To generate this message, Docker took the following steps:
+2017-08-07T07:40:24.624Z - 97e97bd2ea2ca72d76bdc0190a016f322103c75a9b4d6f2add111a5d6bd33038:  1. The Docker client contacted the Docker daemon.
+2017-08-07T07:40:24.624Z - 97e97bd2ea2ca72d76bdc0190a016f322103c75a9b4d6f2add111a5d6bd33038:  2. The Docker daemon pulled the "hello-world" image from the Docker Hub.
+2017-08-07T07:40:24.624Z - 97e97bd2ea2ca72d76bdc0190a016f322103c75a9b4d6f2add111a5d6bd33038:  3. The Docker daemon created a new container from that image which runs the
+2017-08-07T07:40:24.624Z - 97e97bd2ea2ca72d76bdc0190a016f322103c75a9b4d6f2add111a5d6bd33038:     executable that produces the output you are currently reading.
+2017-08-07T07:40:24.624Z - 97e97bd2ea2ca72d76bdc0190a016f322103c75a9b4d6f2add111a5d6bd33038:  4. The Docker daemon streamed that output to the Docker client, which sent it
+2017-08-07T07:40:24.624Z - 97e97bd2ea2ca72d76bdc0190a016f322103c75a9b4d6f2add111a5d6bd33038:     to your terminal.
+2017-08-07T07:40:24.626Z - 97e97bd2ea2ca72d76bdc0190a016f322103c75a9b4d6f2add111a5d6bd33038: 
+2017-08-07T07:40:24.626Z - 97e97bd2ea2ca72d76bdc0190a016f322103c75a9b4d6f2add111a5d6bd33038: To try something more ambitious, you can run an Ubuntu container with:
+2017-08-07T07:40:24.626Z - 97e97bd2ea2ca72d76bdc0190a016f322103c75a9b4d6f2add111a5d6bd33038:  $ docker run -it ubuntu bash
+2017-08-07T07:40:24.626Z - 97e97bd2ea2ca72d76bdc0190a016f322103c75a9b4d6f2add111a5d6bd33038: 
+2017-08-07T07:40:24.626Z - 97e97bd2ea2ca72d76bdc0190a016f322103c75a9b4d6f2add111a5d6bd33038: Share images, automate workflows, and more with a free Docker ID:
+2017-08-07T07:40:24.626Z - 97e97bd2ea2ca72d76bdc0190a016f322103c75a9b4d6f2add111a5d6bd33038:  https://cloud.docker.com/
+2017-08-07T07:40:24.627Z - 97e97bd2ea2ca72d76bdc0190a016f322103c75a9b4d6f2add111a5d6bd33038: 
+2017-08-07T07:40:24.627Z - 97e97bd2ea2ca72d76bdc0190a016f322103c75a9b4d6f2add111a5d6bd33038: For more examples and ideas, visit:
+2017-08-07T07:40:24.627Z - 97e97bd2ea2ca72d76bdc0190a016f322103c75a9b4d6f2add111a5d6bd33038:  https://docs.docker.com/engine/userguide/
+2017-08-07T07:40:24.627Z - 97e97bd2ea2ca72d76bdc0190a016f322103c75a9b4d6f2add111a5d6bd33038: 
+2017-08-07T07:40:24.674Z - 97e97bd2ea2ca72d76bdc0190a016f322103c75a9b4d6f2add111a5d6bd33038: !stop!
+2017-08-07T07:41:00.047Z - 215a018b4ca1987866cb8399bbec9c6c5a8015a695ccd345acbf31fb0e244b20: !start!
+2017-08-07T07:41:00.100Z - 215a018b4ca1987866cb8399bbec9c6c5a8015a695ccd345acbf31fb0e244b20: !stop!
+2017-08-07T07:41:04.919Z - e20f7bcc31b8aa6d83ad53f8210bea394870dae9bf6d0d4ffd4262a5f2156412: !start!
+2017-08-07T07:41:04.928Z - e20f7bcc31b8aa6d83ad53f8210bea394870dae9bf6d0d4ffd4262a5f2156412: 
+2017-08-07T07:41:04.929Z - e20f7bcc31b8aa6d83ad53f8210bea394870dae9bf6d0d4ffd4262a5f2156412: Hello from Docker!
+2017-08-07T07:41:04.929Z - e20f7bcc31b8aa6d83ad53f8210bea394870dae9bf6d0d4ffd4262a5f2156412: This message shows that your installation appears to be working correctly.
+2017-08-07T07:41:04.929Z - e20f7bcc31b8aa6d83ad53f8210bea394870dae9bf6d0d4ffd4262a5f2156412: 
+2017-08-07T07:41:04.929Z - e20f7bcc31b8aa6d83ad53f8210bea394870dae9bf6d0d4ffd4262a5f2156412: To generate this message, Docker took the following steps:
+2017-08-07T07:41:04.929Z - e20f7bcc31b8aa6d83ad53f8210bea394870dae9bf6d0d4ffd4262a5f2156412:  1. The Docker client contacted the Docker daemon.
+2017-08-07T07:41:04.929Z - e20f7bcc31b8aa6d83ad53f8210bea394870dae9bf6d0d4ffd4262a5f2156412:  2. The Docker daemon pulled the "hello-world" image from the Docker Hub.
+2017-08-07T07:41:04.930Z - e20f7bcc31b8aa6d83ad53f8210bea394870dae9bf6d0d4ffd4262a5f2156412:  3. The Docker daemon created a new container from that image which runs the
+2017-08-07T07:41:04.931Z - e20f7bcc31b8aa6d83ad53f8210bea394870dae9bf6d0d4ffd4262a5f2156412:     executable that produces the output you are currently reading.
+2017-08-07T07:41:04.932Z - e20f7bcc31b8aa6d83ad53f8210bea394870dae9bf6d0d4ffd4262a5f2156412:  4. The Docker daemon streamed that output to the Docker client, which sent it
+2017-08-07T07:41:04.932Z - e20f7bcc31b8aa6d83ad53f8210bea394870dae9bf6d0d4ffd4262a5f2156412:     to your terminal.
+2017-08-07T07:41:04.932Z - e20f7bcc31b8aa6d83ad53f8210bea394870dae9bf6d0d4ffd4262a5f2156412: 
+2017-08-07T07:41:04.932Z - e20f7bcc31b8aa6d83ad53f8210bea394870dae9bf6d0d4ffd4262a5f2156412: To try something more ambitious, you can run an Ubuntu container with:
+2017-08-07T07:41:04.935Z - e20f7bcc31b8aa6d83ad53f8210bea394870dae9bf6d0d4ffd4262a5f2156412:  $ docker run -it ubuntu bash
+2017-08-07T07:41:04.937Z - e20f7bcc31b8aa6d83ad53f8210bea394870dae9bf6d0d4ffd4262a5f2156412: 
+2017-08-07T07:41:04.937Z - e20f7bcc31b8aa6d83ad53f8210bea394870dae9bf6d0d4ffd4262a5f2156412: Share images, automate workflows, and more with a free Docker ID:
+2017-08-07T07:41:04.938Z - e20f7bcc31b8aa6d83ad53f8210bea394870dae9bf6d0d4ffd4262a5f2156412:  https://cloud.docker.com/
+2017-08-07T07:41:04.938Z - e20f7bcc31b8aa6d83ad53f8210bea394870dae9bf6d0d4ffd4262a5f2156412: 
+2017-08-07T07:41:04.938Z - e20f7bcc31b8aa6d83ad53f8210bea394870dae9bf6d0d4ffd4262a5f2156412: For more examples and ideas, visit:
+2017-08-07T07:41:04.938Z - e20f7bcc31b8aa6d83ad53f8210bea394870dae9bf6d0d4ffd4262a5f2156412:  https://docs.docker.com/engine/userguide/
+2017-08-07T07:41:04.938Z - e20f7bcc31b8aa6d83ad53f8210bea394870dae9bf6d0d4ffd4262a5f2156412: 
+2017-08-07T07:41:04.984Z - e20f7bcc31b8aa6d83ad53f8210bea394870dae9bf6d0d4ffd4262a5f2156412: !stop!
+2017-08-07T08:04:14.745Z - 2e55cdcac528417fc48c2e34d134cd318d8b08f45bddf040f8ffa7d32e26f55d: !start!
+2017-08-07T08:04:14.754Z - 2e55cdcac528417fc48c2e34d134cd318d8b08f45bddf040f8ffa7d32e26f55d: 
+2017-08-07T08:04:14.754Z - 2e55cdcac528417fc48c2e34d134cd318d8b08f45bddf040f8ffa7d32e26f55d: Hello from Docker!
+2017-08-07T08:04:14.754Z - 2e55cdcac528417fc48c2e34d134cd318d8b08f45bddf040f8ffa7d32e26f55d: This message shows that your installation appears to be working correctly.
+2017-08-07T08:04:14.755Z - 2e55cdcac528417fc48c2e34d134cd318d8b08f45bddf040f8ffa7d32e26f55d: 
+2017-08-07T08:04:14.755Z - 2e55cdcac528417fc48c2e34d134cd318d8b08f45bddf040f8ffa7d32e26f55d: To generate this message, Docker took the following steps:
+2017-08-07T08:04:14.756Z - 2e55cdcac528417fc48c2e34d134cd318d8b08f45bddf040f8ffa7d32e26f55d:  1. The Docker client contacted the Docker daemon.
+2017-08-07T08:04:14.756Z - 2e55cdcac528417fc48c2e34d134cd318d8b08f45bddf040f8ffa7d32e26f55d:  2. The Docker daemon pulled the "hello-world" image from the Docker Hub.
+2017-08-07T08:04:14.756Z - 2e55cdcac528417fc48c2e34d134cd318d8b08f45bddf040f8ffa7d32e26f55d:  3. The Docker daemon created a new container from that image which runs the
+2017-08-07T08:04:14.756Z - 2e55cdcac528417fc48c2e34d134cd318d8b08f45bddf040f8ffa7d32e26f55d:     executable that produces the output you are currently reading.
+2017-08-07T08:04:14.756Z - 2e55cdcac528417fc48c2e34d134cd318d8b08f45bddf040f8ffa7d32e26f55d:  4. The Docker daemon streamed that output to the Docker client, which sent it
+2017-08-07T08:04:14.757Z - 2e55cdcac528417fc48c2e34d134cd318d8b08f45bddf040f8ffa7d32e26f55d:     to your terminal.
+2017-08-07T08:04:14.757Z - 2e55cdcac528417fc48c2e34d134cd318d8b08f45bddf040f8ffa7d32e26f55d: 
+2017-08-07T08:04:14.757Z - 2e55cdcac528417fc48c2e34d134cd318d8b08f45bddf040f8ffa7d32e26f55d: To try something more ambitious, you can run an Ubuntu container with:
+2017-08-07T08:04:14.757Z - 2e55cdcac528417fc48c2e34d134cd318d8b08f45bddf040f8ffa7d32e26f55d:  $ docker run -it ubuntu bash
+2017-08-07T08:04:14.757Z - 2e55cdcac528417fc48c2e34d134cd318d8b08f45bddf040f8ffa7d32e26f55d: 
+2017-08-07T08:04:14.757Z - 2e55cdcac528417fc48c2e34d134cd318d8b08f45bddf040f8ffa7d32e26f55d: Share images, automate workflows, and more with a free Docker ID:
+2017-08-07T08:04:14.758Z - 2e55cdcac528417fc48c2e34d134cd318d8b08f45bddf040f8ffa7d32e26f55d:  https://cloud.docker.com/
+2017-08-07T08:04:14.758Z - 2e55cdcac528417fc48c2e34d134cd318d8b08f45bddf040f8ffa7d32e26f55d: 
+2017-08-07T08:04:14.758Z - 2e55cdcac528417fc48c2e34d134cd318d8b08f45bddf040f8ffa7d32e26f55d: For more examples and ideas, visit:
+2017-08-07T08:04:14.758Z - 2e55cdcac528417fc48c2e34d134cd318d8b08f45bddf040f8ffa7d32e26f55d:  https://docs.docker.com/engine/userguide/
+2017-08-07T08:04:14.758Z - 2e55cdcac528417fc48c2e34d134cd318d8b08f45bddf040f8ffa7d32e26f55d: 
+2017-08-07T08:04:16.756Z - 2e55cdcac528417fc48c2e34d134cd318d8b08f45bddf040f8ffa7d32e26f55d: !stop!
+2017-08-07T08:21:10.714Z - 8bcef4ae71dcb36978f0ae8ca6aaea2a06646552ee8fc26e22f2b687d013e922: !start!
+2017-08-07T08:21:10.728Z - 8bcef4ae71dcb36978f0ae8ca6aaea2a06646552ee8fc26e22f2b687d013e922: 
+2017-08-07T08:21:10.729Z - 8bcef4ae71dcb36978f0ae8ca6aaea2a06646552ee8fc26e22f2b687d013e922: Hello from Docker!
+2017-08-07T08:21:10.729Z - 8bcef4ae71dcb36978f0ae8ca6aaea2a06646552ee8fc26e22f2b687d013e922: This message shows that your installation appears to be working correctly.
+2017-08-07T08:21:10.729Z - 8bcef4ae71dcb36978f0ae8ca6aaea2a06646552ee8fc26e22f2b687d013e922: 
+2017-08-07T08:21:10.729Z - 8bcef4ae71dcb36978f0ae8ca6aaea2a06646552ee8fc26e22f2b687d013e922: To generate this message, Docker took the following steps:
+2017-08-07T08:21:10.729Z - 8bcef4ae71dcb36978f0ae8ca6aaea2a06646552ee8fc26e22f2b687d013e922:  1. The Docker client contacted the Docker daemon.
+2017-08-07T08:21:10.729Z - 8bcef4ae71dcb36978f0ae8ca6aaea2a06646552ee8fc26e22f2b687d013e922:  2. The Docker daemon pulled the "hello-world" image from the Docker Hub.
+2017-08-07T08:21:10.730Z - 8bcef4ae71dcb36978f0ae8ca6aaea2a06646552ee8fc26e22f2b687d013e922:  3. The Docker daemon created a new container from that image which runs the
+2017-08-07T08:21:10.730Z - 8bcef4ae71dcb36978f0ae8ca6aaea2a06646552ee8fc26e22f2b687d013e922:     executable that produces the output you are currently reading.
+2017-08-07T08:21:10.730Z - 8bcef4ae71dcb36978f0ae8ca6aaea2a06646552ee8fc26e22f2b687d013e922:  4. The Docker daemon streamed that output to the Docker client, which sent it
+2017-08-07T08:21:10.730Z - 8bcef4ae71dcb36978f0ae8ca6aaea2a06646552ee8fc26e22f2b687d013e922:     to your terminal.
+2017-08-07T08:21:10.730Z - 8bcef4ae71dcb36978f0ae8ca6aaea2a06646552ee8fc26e22f2b687d013e922: 
+2017-08-07T08:21:10.731Z - 8bcef4ae71dcb36978f0ae8ca6aaea2a06646552ee8fc26e22f2b687d013e922: To try something more ambitious, you can run an Ubuntu container with:
+2017-08-07T08:21:10.731Z - 8bcef4ae71dcb36978f0ae8ca6aaea2a06646552ee8fc26e22f2b687d013e922:  $ docker run -it ubuntu bash
+2017-08-07T08:21:10.731Z - 8bcef4ae71dcb36978f0ae8ca6aaea2a06646552ee8fc26e22f2b687d013e922: 
+2017-08-07T08:21:10.732Z - 8bcef4ae71dcb36978f0ae8ca6aaea2a06646552ee8fc26e22f2b687d013e922: Share images, automate workflows, and more with a free Docker ID:
+2017-08-07T08:21:10.732Z - 8bcef4ae71dcb36978f0ae8ca6aaea2a06646552ee8fc26e22f2b687d013e922:  https://cloud.docker.com/
+2017-08-07T08:21:10.732Z - 8bcef4ae71dcb36978f0ae8ca6aaea2a06646552ee8fc26e22f2b687d013e922: 
+2017-08-07T08:21:10.732Z - 8bcef4ae71dcb36978f0ae8ca6aaea2a06646552ee8fc26e22f2b687d013e922: For more examples and ideas, visit:
+2017-08-07T08:21:10.732Z - 8bcef4ae71dcb36978f0ae8ca6aaea2a06646552ee8fc26e22f2b687d013e922:  https://docs.docker.com/engine/userguide/
+2017-08-07T08:21:10.733Z - 8bcef4ae71dcb36978f0ae8ca6aaea2a06646552ee8fc26e22f2b687d013e922: 
+2017-08-07T08:21:10.777Z - 8bcef4ae71dcb36978f0ae8ca6aaea2a06646552ee8fc26e22f2b687d013e922: !stop!

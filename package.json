@@ -1,0 +1,23 @@
+{
+  "name": "container-logger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roeyazroel/container-logger.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roeyazroel/container-logger/issues"
+  },
+  "homepage": "https://github.com/roeyazroel/container-logger#readme",
+  "dependencies": {
+    "dockerode": "^2.5.0",
+    "moment": "^2.18.1"
+  }
+}
